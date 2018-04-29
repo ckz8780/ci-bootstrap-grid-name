@@ -1,0 +1,21 @@
+.no-padding {
+    padding: 0;
+}
+    
+.black {
+    background-color: #000;
+    height: 10px;
+}
+
+.white {
+    background-color: #fff;
+    height: 10px;
+}
+
+.grid-name {
+    margin-top: calc(90vh/2);
+    padding: 10px;
+    background: lightcyan;
+    border: 1px solid black;
+    border-radius: 5px;
+}
